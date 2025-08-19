@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
-
+# Hi there! 👋 I'm Sara Golombeck
 ## 🚀 DevOps Engineer | Full Stack Background
 
 DevOps Engineer specializing in cloud-native infrastructures and end-to-end automation. With a strong Full Stack development foundation, I bring a unique perspective to building scalable, developer-friendly infrastructure solutions.
