@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Sara Golombeck
-## 🚀 DevOps Engineer | Full Stack Background
+## 🚀 DevOps Engineer | Full Stack Developer
 
 DevOps Engineer specializing in cloud-native infrastructures and end-to-end automation. With a strong Full Stack development foundation, I bring a unique perspective to building scalable, developer-friendly infrastructure solutions.
 
@@ -39,4 +39,3 @@ DevOps Engineer specializing in cloud-native infrastructures and end-to-end auto
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.beck.dev@gmail.com)
 
-*Building bridges between development and operations* 🌉
